@@ -26,15 +26,15 @@ que deben ser ingresadas bajo presión de tiempo.
 
 ---- Estructura del proyecto ----
 
-Juego_SD/
-└── src/
-    ├── igu/
-    │   ├── VentanaJuego.java
-    │   └── EstiloVisual.java
-    ├── logica/
-    │   └── Partida.java
-    └── persistencia/
-        └── GestorPuntajes.java
+Juego_SD
+--- src/
+------ igu/
+--------- VentanaJuego.java
+--------- EstiloVisual.java
+------ logica/
+--------- Partida.java
+------ persistencia/
+--------- GestorPuntajes.java
 
 ---- Arquitectura ----
 
