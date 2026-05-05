@@ -24,26 +24,6 @@ que deben ser ingresadas bajo presión de tiempo.
 - Programación Orientada a Objetos (POO)
 - Swing (Interfaz gráfica)
 
----- Estructura del proyecto ----
-
-Juego_SD
---- src/
------- igu/
---------- VentanaJuego.java
---------- EstiloVisual.java
------- logica/
---------- Partida.java
------- persistencia/
---------- GestorPuntajes.java
-
----- Arquitectura ----
-
-El proyecto está organizado en capas para una mejor estructura:
-
-igu/ → Interfaz gráfica del usuario
-logica/ → Lógica del juego
-persistencia/ → Manejo de almacenamiento de puntajes
-
 ---- Autor ----
 
 Desarrollado por VLAA.
